@@ -1,3 +1,30 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+table {
+    border-collapse: collapse;
+    border: 0.11px;
+    border-color: black;
+    border-style: solid;
+}
+th{
+    border-collapse: collapse;
+    border: 0.11px;
+    border-color: black;
+    border-style: solid;
+    
+}
+td{
+    border-collapse: collapse;
+    border: 0.11px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+}
+ul{
+   
+    list-style: none;
+}
+li{
+    list-style: none;
+}
